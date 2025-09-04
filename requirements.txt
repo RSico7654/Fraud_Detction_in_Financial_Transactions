@@ -1,4 +1,4 @@
-pandas
-scikit-learn
-joblib
-schedule
+pandas==2.2.2
+scikit-learn==1.5.1
+joblib==1.4.2
+schedule==1.2.1
